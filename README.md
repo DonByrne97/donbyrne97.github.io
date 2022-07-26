@@ -1,8 +1,7 @@
-# Game Developer and Software Engineer
+# Brandon Byrne
+## Game Developer and Software Engineer
 
-You can use the [editor on GitHub](https://github.com/DonByrne97/donbyrne97.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! I'm Brandon, a (mostly) self-taught game developer and programmer. I've worked extensively with languages like C#, C++, and Python, along with industry standard game engines like Unreal and Unity. 
 
 ### Markdown
 
